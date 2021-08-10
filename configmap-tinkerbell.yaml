@@ -16,6 +16,7 @@ data:
         - https://github.com/tinkerbell/cluster-api-provider-tink
         - https://github.com/tinkerbell/crocodile
         - https://github.com/tinkerbell/hegel
+        - https://github.com/tinkerbell/hook
         - https://github.com/tinkerbell/hub
         - https://github.com/tinkerbell/infrastructure
         - https://github.com/tinkerbell/k8s-sandbox
