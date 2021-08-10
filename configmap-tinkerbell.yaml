@@ -17,7 +17,6 @@ data:
         - https://github.com/tinkerbell/pbnj
         - https://github.com/tinkerbell/tink
         - https://github.com/tinkerbell/proposals
-        - https://github.com/tinkerbell/portal
         - https://github.com/tinkerbell/tinkerbell.org
     collections:
       - id: daily
