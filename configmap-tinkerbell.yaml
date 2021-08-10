@@ -10,13 +10,23 @@ data:
       name: Tinkerbell
       min_similarity: 0.75
       repos:
+        - https://github.com/tinkerbell/.github
         - https://github.com/tinkerbell/artwork
         - https://github.com/tinkerbell/boots
+        - https://github.com/tinkerbell/cluster-api-provider-tink
+        - https://github.com/tinkerbell/crocodile
         - https://github.com/tinkerbell/hegel
+        - https://github.com/tinkerbell/hook
+        - https://github.com/tinkerbell/hub
+        - https://github.com/tinkerbell/infrastructure
+        - https://github.com/tinkerbell/k8s-sandbox
         - https://github.com/tinkerbell/osie
         - https://github.com/tinkerbell/pbnj
-        - https://github.com/tinkerbell/tink
         - https://github.com/tinkerbell/proposals
+        - https://github.com/tinkerbell/sandbox
+        - https://github.com/tinkerbell/terraform-provider-tinkerbell
+        - https://github.com/tinkerbell/tink
+        - https://github.com/tinkerbell/tinkerbell-docs
         - https://github.com/tinkerbell/tinkerbell.org
     collections:
       - id: daily
