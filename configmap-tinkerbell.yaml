@@ -31,8 +31,8 @@ data:
         - https://github.com/tinkerbell/tinkerbell.org
 
     collections:
-      - id: weekly
-        name: Semi-weekly
+      - id: daily
+        name: Daily
         dedup: true
         description: >
           Reviewed during the week.
@@ -58,7 +58,7 @@ data:
           - issue-updated-needs-info
           - issue-updated-has-question
 
-      - id: biweekly
+      - id: weekly
         name: Bi-weekly
         dedup: true
         description: >
